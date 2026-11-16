@@ -1,0 +1,45 @@
+{
+   "blockdevices": [
+      {
+         "name": "zram0",
+         "size": 0,
+         "type": "disk",
+         "mountpoint": null,
+         "model": null,
+         "rota": false,
+         "tran": null
+      },{
+         "name": "vda",
+         "size": 274877906944,
+         "type": "disk",
+         "mountpoint": "/",
+         "model": null,
+         "rota": true,
+         "tran": "virtio"
+      },{
+         "name": "vdb",
+         "size": 9928704,
+         "type": "disk",
+         "mountpoint": "/opt/rclone",
+         "model": null,
+         "rota": true,
+         "tran": "virtio"
+      },{
+         "name": "vdc",
+         "size": 765952,
+         "type": "disk",
+         "mountpoint": "/mnt/skills/public",
+         "model": null,
+         "rota": true,
+         "tran": "virtio"
+      },{
+         "name": "vdd",
+         "size": 6115328,
+         "type": "disk",
+         "mountpoint": "/mnt/skills/examples",
+         "model": null,
+         "rota": true,
+         "tran": "virtio"
+      }
+   ]
+}

@@ -1,0 +1,8 @@
+{"blockdevices": [
+  {"name":"loop0","size":"58327040","type":"loop","mountpoint":"/snap/core","model":null,"rota":false,"tran":null},
+  {"name":"nvme0n1","size":"512110190592","type":"disk","mountpoint":null,"model":"SAMSUNG MZVL2512HCJQ-00B00","rota":false,"tran":"nvme",
+   "children":[
+     {"name":"nvme0n1p1","size":"1073741824","type":"part","mountpoint":"/boot/efi","model":null,"rota":false,"tran":null},
+     {"name":"nvme0n1p2","size":"511035441152","type":"part","mountpoint":"/","model":null,"rota":false,"tran":null}]},
+  {"name":"sda","size":"1000204886016","type":"disk","mountpoint":null,"model":"ST1000LM035-1RK1","rota":true,"tran":"sata","children":[]}
+]}

@@ -1,0 +1,14 @@
+Architecture:                       x86_64
+CPU op-mode(s):                     32-bit, 64-bit
+Address sizes:                      39 bits physical, 48 bits virtual
+Byte Order:                         Little Endian
+CPU(s):                             12
+On-line CPU(s) list:                0-11
+Vendor ID:                          GenuineIntel
+Model name:                         12th Gen Intel(R) Core(TM) i5-1235U
+Thread(s) per core:                 2
+Core(s) per socket:                 10
+Socket(s):                          1
+CPU max MHz:                        4400.0000
+CPU min MHz:                        400.0000
+L3 cache:                           12 MiB (1 instance)

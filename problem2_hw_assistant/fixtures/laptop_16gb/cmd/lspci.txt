@@ -1,0 +1,2 @@
+00:02.0 "VGA compatible controller" "Intel Corporation" "Alder Lake-UP3 GT2 [Iris Xe Graphics]" -r04 "Dell" "Device 0a5b"
+00:14.3 "Network controller" "Intel Corporation" "Alder Lake PCH CNVi WiFi" -r01 "Intel Corporation" "Device 0094"

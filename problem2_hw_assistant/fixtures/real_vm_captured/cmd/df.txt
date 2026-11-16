@@ -1,0 +1,6 @@
+Filesystem                                                                               1B-blocks       Used Mounted on
+/dev/vda                                                                              270553174016 8599568384 /
+rclone-filestore:claude_chat_01RY1FUQJLAt933rhAETLLjd:/mnt/user-data/tool_results 1125899906842624          0 /mnt/user-data/tool_results
+rclone-filestore:claude_chat_01RY1FUQJLAt933rhAETLLjd:/mnt/user-data/outputs      1125899906842624          0 /mnt/user-data/outputs
+rclone-filestore:claude_chat_01RY1FUQJLAt933rhAETLLjd:/mnt/user-data/uploads      1125899906842624          0 /mnt/user-data/uploads
+rclone-filestore:claude_chat_01RY1FUQJLAt933rhAETLLjd:/mnt/transcripts            1125899906842624          0 /mnt/transcripts
